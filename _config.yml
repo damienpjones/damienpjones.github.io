@@ -1,24 +1,41 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+title: Damien Jones
+description: My Blog
+author: Damien Jones
+github: https://github.com/damienpjones
+about: M.Sc Biotechnology student with diverse interests
+disqus_shortname: stackproblems
+google_analytics: UA-XXXXXXXX-Y
 
-# Permalinks
-permalink:        pretty
+enableTags: true
+tagarray: []
 
-# Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/damienpjones"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/damien-jones-a1552a45?"
 
-paginate:         5
+share:
+  twitter_username: damienpjones
 
-# Custom vars
-version:          2.0.0
 
-github:
-  repo:           https://github.com/poole/lanyon
+urls:
+    - text: About Me
+      url: /about/
+    - text: Github
+      url: https://github.com/damienpjones
+
+url: "https://damienpjones.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist

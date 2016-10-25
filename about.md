@@ -1,30 +1,46 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Education
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+2010--Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **B.Sc Biotechnology & M.Sc Medical Biotechnology**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Royal Institute of Technology (KTH), Stockholm, Sweden*](https://www.kth.se)  
+Expected graduation May 2016
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+2010--Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Individual Courses**  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   *[Stockholm University](https://www.su.se) and [Karolinska Institutet, Sweden](https://www.ki.se)*  
+Courses in statistics, computer science, control theory, bioinformatics, Chinese
 
-## Setup
 
-Some fun facts about the setup of this project include:
+2014--2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Exchange Year**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *[Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland](https://www.epfl.ch)*  
+Courses in Life Sciences and Bioengineering Masters Programs focusing on Neurosciences and Neuroengineering
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+# Research
 
-Thanks for reading!
+### Bachelors Thesis - Spring 2014  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*SciLifeLab, Stockholm, Sweden*](https://www.scilifelab.se)
+
+An investigation into differentially expressed protein isoforms and their subcellular localization in three human cell lines used in the Human Protein Atlas.  
+*Computational analysis of transcriptomic data from the Human Protein Atlas to evaluate how expression of transcript isoforms affects the subcellular localization of the corresponding protein isoforms*
+
+
+
+
+### Summer Research Intership - Summer 2014  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Brown University, RI, USA*](https://www.brown.edu/Departments/Engineering/Labs/Tripathi/index.html)
+
+Worked on research into the isolation of biomolecules through microfluidic oil-water interfaces at the lab of Professor Anubhav Tripathi in the Center for Biomedical Engineering  
+*Completely responsible for designing and running my own experiments.*
+
+### Summer Research Intership - Summer 2015
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Center for Neuroprosthetics, EPFL, Geneva, Switzerland](http://cnbi.epfl.ch/page-34059.html)*
+
+Worked on research into the isolation of biomolecules through microfluidic oil-water interfaces at the lab of Professor Anubhav Tripathi in the Center for Biomedical Engineering  
+*Completely responsible for designing and running my own experiments.*
